@@ -34,7 +34,18 @@ gap: 30px;
 }
 
 .main {
+  padding: 10px;
 flex-grow: 1;
+}
+
+.photo {
+
+  border-radius: 20px;
+  width: 200px;
+  height: 250px;
+  
+ 
+  
 }
 
 .footer {
